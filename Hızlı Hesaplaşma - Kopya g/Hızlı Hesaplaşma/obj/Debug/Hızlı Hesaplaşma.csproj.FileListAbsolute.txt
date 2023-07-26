@@ -1,0 +1,46 @@
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma\Hızlı Hesaplaşma\obj\Debug\Hızlı Hesaplaşma.csproj.AssemblyReference.cache
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma\Hızlı Hesaplaşma\bin\Debug\Hızlı Hesaplaşma.exe.config
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma\Hızlı Hesaplaşma\bin\Debug\Hızlı Hesaplaşma.exe
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma\Hızlı Hesaplaşma\bin\Debug\Hızlı Hesaplaşma.pdb
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma\Hızlı Hesaplaşma\obj\Debug\Hızlı_Hesaplaşma.Form1.resources
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma\Hızlı Hesaplaşma\obj\Debug\Hızlı_Hesaplaşma.Properties.Resources.resources
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma\Hızlı Hesaplaşma\obj\Debug\Hızlı Hesaplaşma.csproj.GenerateResource.cache
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma\Hızlı Hesaplaşma\obj\Debug\Hızlı Hesaplaşma.csproj.CoreCompileInputs.cache
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma\Hızlı Hesaplaşma\obj\Debug\Hızlı Hesaplaşma.exe
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma\Hızlı Hesaplaşma\obj\Debug\Hızlı Hesaplaşma.pdb
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma\Hızlı Hesaplaşma\obj\Debug\Hızlı_Hesaplaşma.login.resources
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma\Hızlı Hesaplaşma\obj\Debug\Hızlı_Hesaplaşma.kayıt.resources
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma\Hızlı Hesaplaşma\obj\Debug\Hızlı_Hesaplaşma.giriş.resources
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma\Hızlı Hesaplaşma\obj\Debug\Hızlı_Hesaplaşma.oyun.resources
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma\Hızlı Hesaplaşma\obj\Debug\Hızlı_Hesaplaşma.unuttum.resources
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma\Hızlı Hesaplaşma\obj\Debug\Hızlı_Hesaplaşma.seviye.resources
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma\Hızlı Hesaplaşma\obj\Debug\Hızlı_Hesaplaşma.Hakkımızda.resources
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma\Hızlı Hesaplaşma\obj\Debug\Hızlı_Hesaplaşma.nasıloynanır.resources
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma\Hızlı Hesaplaşma\obj\Debug\Hızlı_Hesaplaşma.öneri.resources
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma\Hızlı Hesaplaşma\obj\Debug\Hızlı_Hesaplaşma.kolay.resources
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma\Hızlı Hesaplaşma\obj\Debug\Hızlı_Hesaplaşma.orta.resources
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma\Hızlı Hesaplaşma\obj\Debug\Hızlı_Hesaplaşma.zor.resources
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma\Hızlı Hesaplaşma\obj\Debug\Hızlı_Hesaplaşma.skor.resources
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma - Kopya g\Hızlı Hesaplaşma\bin\Debug\Hızlı Hesaplaşma.exe.config
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma - Kopya g\Hızlı Hesaplaşma\bin\Debug\Hızlı Hesaplaşma.exe
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma - Kopya g\Hızlı Hesaplaşma\bin\Debug\Hızlı Hesaplaşma.pdb
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma - Kopya g\Hızlı Hesaplaşma\obj\Debug\Hızlı Hesaplaşma.csproj.AssemblyReference.cache
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma - Kopya g\Hızlı Hesaplaşma\obj\Debug\Hızlı_Hesaplaşma.Form1.resources
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma - Kopya g\Hızlı Hesaplaşma\obj\Debug\Hızlı_Hesaplaşma.giriş.resources
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma - Kopya g\Hızlı Hesaplaşma\obj\Debug\Hızlı_Hesaplaşma.Hakkımızda.resources
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma - Kopya g\Hızlı Hesaplaşma\obj\Debug\Hızlı_Hesaplaşma.kayıt.resources
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma - Kopya g\Hızlı Hesaplaşma\obj\Debug\Hızlı_Hesaplaşma.kolay.resources
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma - Kopya g\Hızlı Hesaplaşma\obj\Debug\Hızlı_Hesaplaşma.login.resources
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma - Kopya g\Hızlı Hesaplaşma\obj\Debug\Hızlı_Hesaplaşma.nasıloynanır.resources
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma - Kopya g\Hızlı Hesaplaşma\obj\Debug\Hızlı_Hesaplaşma.orta.resources
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma - Kopya g\Hızlı Hesaplaşma\obj\Debug\Hızlı_Hesaplaşma.oyun.resources
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma - Kopya g\Hızlı Hesaplaşma\obj\Debug\Hızlı_Hesaplaşma.Properties.Resources.resources
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma - Kopya g\Hızlı Hesaplaşma\obj\Debug\Hızlı_Hesaplaşma.seviye.resources
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma - Kopya g\Hızlı Hesaplaşma\obj\Debug\Hızlı_Hesaplaşma.skor.resources
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma - Kopya g\Hızlı Hesaplaşma\obj\Debug\Hızlı_Hesaplaşma.unuttum.resources
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma - Kopya g\Hızlı Hesaplaşma\obj\Debug\Hızlı_Hesaplaşma.zor.resources
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma - Kopya g\Hızlı Hesaplaşma\obj\Debug\Hızlı_Hesaplaşma.öneri.resources
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma - Kopya g\Hızlı Hesaplaşma\obj\Debug\Hızlı Hesaplaşma.csproj.GenerateResource.cache
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma - Kopya g\Hızlı Hesaplaşma\obj\Debug\Hızlı Hesaplaşma.csproj.CoreCompileInputs.cache
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma - Kopya g\Hızlı Hesaplaşma\obj\Debug\Hızlı Hesaplaşma.exe
+C:\Users\kayse\OneDrive\Masaüstü\Hızlı Hesaplaşma - Kopya g\Hızlı Hesaplaşma\obj\Debug\Hızlı Hesaplaşma.pdb

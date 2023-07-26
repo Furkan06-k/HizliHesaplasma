@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E951DDBC-64E5-49AB-9574-F2A48CB64E14}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Hızlı_Hesaplaşma</RootNamespace>
+    <AssemblyName>Hızlı Hesaplaşma</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="giriş.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="giriş.Designer.cs">
+      <DependentUpon>giriş.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hakkımızda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hakkımızda.Designer.cs">
+      <DependentUpon>Hakkımızda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kayıt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kayıt.Designer.cs">
+      <DependentUpon>kayıt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kolay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kolay.Designer.cs">
+      <DependentUpon>kolay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="nasıloynanır.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="nasıloynanır.Designer.cs">
+      <DependentUpon>nasıloynanır.cs</DependentUpon>
+    </Compile>
+    <Compile Include="orta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="orta.Designer.cs">
+      <DependentUpon>orta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="oyun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="oyun.Designer.cs">
+      <DependentUpon>oyun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="seviye.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="seviye.Designer.cs">
+      <DependentUpon>seviye.cs</DependentUpon>
+    </Compile>
+    <Compile Include="skor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="skor.Designer.cs">
+      <DependentUpon>skor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="unuttum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="unuttum.Designer.cs">
+      <DependentUpon>unuttum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zor.Designer.cs">
+      <DependentUpon>zor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="öneri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="öneri.Designer.cs">
+      <DependentUpon>öneri.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="giriş.resx">
+      <DependentUpon>giriş.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hakkımızda.resx">
+      <DependentUpon>Hakkımızda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kayıt.resx">
+      <DependentUpon>kayıt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kolay.resx">
+      <DependentUpon>kolay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="nasıloynanır.resx">
+      <DependentUpon>nasıloynanır.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="orta.resx">
+      <DependentUpon>orta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="oyun.resx">
+      <DependentUpon>oyun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="seviye.resx">
+      <DependentUpon>seviye.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="skor.resx">
+      <DependentUpon>skor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="unuttum.resx">
+      <DependentUpon>unuttum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zor.resx">
+      <DependentUpon>zor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="öneri.resx">
+      <DependentUpon>öneri.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\splas.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ambulance - Kopya.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ambulance1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\benzin - Kopya.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\benzin1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bronze - Kopya.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bronze1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\can - Kopya.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\can.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cannn - Kopya.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cannn1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carGreen - Kopya.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carGreen1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carGrey - Kopya.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carGrey1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carOrange - Kopya.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carOrange1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carPink1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CarRed1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carYellow1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\explosion1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gold1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HARİKA1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kalp.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MUHTEŞEM1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\roadTrack1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\silver1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\su1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SÜPER1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TruckBlue1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TruckWhite1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yol1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zaman1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\hit.wav" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
